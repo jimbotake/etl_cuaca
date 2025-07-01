@@ -1,7 +1,7 @@
 
 # 🌦️ Proyek ETL Data Cuaca (WeatherAPI → PostgreSQL)
 
-Proyek ini mengambil data cuaca real-time dari WeatherAPI dan menyimpannya ke PostgreSQL menggunakan Python. Cocok untuk latihan data engineering sederhana.
+Proyek ini mengambil data cuaca real-time dari WeatherAPI dan menyimpannya ke PostgreSQL menggunakan Python. Cocok untuk latihan data engineering sederhana. Loop Otomatis tiap menit. Visualisasi dengan Plotly
 
 ## 🚀 Teknologi yang Digunakan
 - Python 3.10
