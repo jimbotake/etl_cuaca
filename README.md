@@ -17,6 +17,9 @@ etl_cuaca/
 ├── config.env              # Simpan API key dan DB config
 ├── requirements.txt        # Daftar dependensi Python
 ├── README.md               # Deskripsi proyek
+├── cuaca_viz.py	     # Visualisasi Sederhana
+├── cuaca_viz_plotly.py     # Visualisasi dengan Plotly
+├── etl_loop.py	             # Loop ETL
 └── .gitignore              # File ignore Git
 ```
 
