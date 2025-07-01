@@ -66,6 +66,12 @@ DB_PORT=5432
 python etl_weatherapi.py
 ```
 
+## 📊 Visualisasi
+
+Berikut contoh visualisasi grafik kelembaban dari data WeatherAPI:
+
+![Grafik Kelembaban](images/vis_kelembaban.png)
+
 ## 📌 Catatan
 
 - Pastikan PostgreSQL sudah berjalan dan database `weather_db` sudah dibuat.
